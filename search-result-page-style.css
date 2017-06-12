@@ -1,0 +1,10 @@
+body {
+	font-family: "Avenir", "Futura", sans-serif;
+}
+
+h1.search {
+	text-align: center;
+	text-transform: uppercase;
+	font-variant: small-caps;
+	color: midnightblue;
+}
